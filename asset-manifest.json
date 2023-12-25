@@ -1,15 +1,32 @@
 {
   "files": {
-    "main.css": "/lux-hotel/static/css/main.929ec1ed.css",
-    "main.js": "/lux-hotel/static/js/main.bfbfff5c.js",
+    "main.css": "/lux-hotel/static/css/main.49538f74.css",
+    "main.js": "/lux-hotel/static/js/main.08308bd2.js",
     "static/media/bg-blue1.jpg": "/lux-hotel/static/media/bg-blue1.b876be2b478c46c1d29e.jpg",
+    "static/media/bg-1.jpg": "/lux-hotel/static/media/bg-1.c85959f1dba6a5dd17ad.jpg",
+    "static/media/plan-6.jpg": "/lux-hotel/static/media/plan-6.e12885609a86d88f4878.jpg",
+    "static/media/plan-4.jpg": "/lux-hotel/static/media/plan-4.2e68259d101e83ce0cc9.jpg",
+    "static/media/plan-5.jpg": "/lux-hotel/static/media/plan-5.083bf18a74ca5c22e81c.jpg",
+    "static/media/slide-2.jpg": "/lux-hotel/static/media/slide-2.5c88cbeff1e8f083ea27.jpg",
+    "static/media/plan-1.jpg": "/lux-hotel/static/media/plan-1.09be56361485732efe72.jpg",
+    "static/media/slide-5.jpg": "/lux-hotel/static/media/slide-5.150dcedadc67154d779b.jpg",
+    "static/media/plan-2.jpg": "/lux-hotel/static/media/plan-2.f6e1228276a1aec2cacb.jpg",
+    "static/media/slide-4.jpg": "/lux-hotel/static/media/slide-4.d924142af1a655ae26cc.jpg",
+    "static/media/plan-9.jpg": "/lux-hotel/static/media/plan-9.46aac26168586f8c1d76.jpg",
+    "static/media/plan-7.jpg": "/lux-hotel/static/media/plan-7.0ec5337d28c5829f4dd2.jpg",
+    "static/media/plat-1.jpg": "/lux-hotel/static/media/plat-1.bc74c1b32373a67a17fc.jpg",
+    "static/media/slide-1.jpg": "/lux-hotel/static/media/slide-1.945b1a0409dffbbed65b.jpg",
+    "static/media/slide-3.jpg": "/lux-hotel/static/media/slide-3.bdaec2daa639097f4d01.jpg",
+    "static/media/imgF.avif": "/lux-hotel/static/media/imgF.847b55513ff9441a3e97.avif",
+    "static/media/bg-reservation.jpg": "/lux-hotel/static/media/bg-reservation.796811b224cef86c0a40.jpg",
+    "static/media/chambre-1.jpg": "/lux-hotel/static/media/chambre-1.f07486d84df6eeafaad5.jpg",
     "static/media/logo.jpg": "/lux-hotel/static/media/logo.7fa4c4758dcaba7a432a.jpg",
     "index.html": "/lux-hotel/index.html",
-    "main.929ec1ed.css.map": "/lux-hotel/static/css/main.929ec1ed.css.map",
-    "main.bfbfff5c.js.map": "/lux-hotel/static/js/main.bfbfff5c.js.map"
+    "main.49538f74.css.map": "/lux-hotel/static/css/main.49538f74.css.map",
+    "main.08308bd2.js.map": "/lux-hotel/static/js/main.08308bd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.929ec1ed.css",
-    "static/js/main.bfbfff5c.js"
+    "static/css/main.49538f74.css",
+    "static/js/main.08308bd2.js"
   ]
 }
