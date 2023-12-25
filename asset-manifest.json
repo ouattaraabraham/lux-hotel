@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lux-hotel/static/css/main.929ec1ed.css",
+    "main.js": "/lux-hotel/static/js/main.bfbfff5c.js",
+    "static/media/bg-blue1.jpg": "/lux-hotel/static/media/bg-blue1.b876be2b478c46c1d29e.jpg",
+    "static/media/logo.jpg": "/lux-hotel/static/media/logo.7fa4c4758dcaba7a432a.jpg",
+    "index.html": "/lux-hotel/index.html",
+    "main.929ec1ed.css.map": "/lux-hotel/static/css/main.929ec1ed.css.map",
+    "main.bfbfff5c.js.map": "/lux-hotel/static/js/main.bfbfff5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.929ec1ed.css",
+    "static/js/main.bfbfff5c.js"
+  ]
+}
