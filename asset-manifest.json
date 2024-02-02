@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lux-hotel/static/css/main.984644f7.css",
-    "main.js": "/lux-hotel/static/js/main.1de5b76e.js",
+    "main.js": "/lux-hotel/static/js/main.0b778ea5.js",
     "static/media/video-1.mp4": "/lux-hotel/static/media/video-1.1c95e78e0e557ddc3615.mp4",
     "static/media/bg-blue1.jpg": "/lux-hotel/static/media/bg-blue1.b876be2b478c46c1d29e.jpg",
     "static/media/bg-1.jpg": "/lux-hotel/static/media/bg-1.c85959f1dba6a5dd17ad.jpg",
@@ -23,10 +23,10 @@
     "static/media/logo.jpg": "/lux-hotel/static/media/logo.7fa4c4758dcaba7a432a.jpg",
     "index.html": "/lux-hotel/index.html",
     "main.984644f7.css.map": "/lux-hotel/static/css/main.984644f7.css.map",
-    "main.1de5b76e.js.map": "/lux-hotel/static/js/main.1de5b76e.js.map"
+    "main.0b778ea5.js.map": "/lux-hotel/static/js/main.0b778ea5.js.map"
   },
   "entrypoints": [
     "static/css/main.984644f7.css",
-    "static/js/main.1de5b76e.js"
+    "static/js/main.0b778ea5.js"
   ]
 }
